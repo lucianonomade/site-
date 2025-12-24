@@ -1,0 +1,7 @@
+{
+  "name": "Agrobiotech Maintenance Page",
+  "description": "A professional maintenance landing page for Agrobiotech with a contact form, institutional video, and AI assistant.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
